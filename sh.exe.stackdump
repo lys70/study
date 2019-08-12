@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6100791B
+eax=00000000 ebx=61007912 ecx=7C5B0000 edx=00970000 esi=00970095 edi=00000000
+ebp=6C550000 esp=031BCD4C program=c:\program files (x86)\microsoft visual studio\2019\community\common7\ide\commonextensions\microsoft\teamfoundation\team explorer\Git\usr\bin\sh.exe, pid 41692, thread 
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
